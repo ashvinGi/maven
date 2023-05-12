@@ -50,7 +50,7 @@
           <autoVersionSubmodules>true</autoVersionSubmodules>
         </configuration>
       </plugin>
-
+  <!-- demo -->
       <plugin>
         <artifactId>maven-site-plugin</artifactId>
         <configuration>
