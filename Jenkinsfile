@@ -15,7 +15,7 @@ pipeline
                  cicd.newGit("https://github.com/ashvinGi/maven.git")
                     
                     
-                }
+          }
                 
             }
             
